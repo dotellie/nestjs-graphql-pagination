@@ -78,8 +78,8 @@
     "typescript": "^3.9.3"
   },
   "devDependencies": {
-    "@babel/cli": "7.10.4",
-    "@babel/core": "7.10.4",
+    "@babel/cli": "7.10.5",
+    "@babel/core": "7.10.5",
     "@babel/preset-env": "7.10.4",
     "@babel/preset-typescript": "7.10.4",
     "@nestjs/common": "7.1.3",
